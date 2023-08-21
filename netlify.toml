@@ -1,3 +1,4 @@
 [[redirects]]
-  from = "/assets/*"
-  status = 403
+  from = "/*"
+  to = "/index.html"
+  status = 200
