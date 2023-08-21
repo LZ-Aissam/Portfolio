@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/Tableau de synthèse Épreuve E4.pdf"
-  to = "/error.html"
-  status = 404
+  from = "/assets/*"
+  to = "/"
+  status = 403
